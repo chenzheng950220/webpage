@@ -1,0 +1,213 @@
+
+
+h1 {
+    font-family: Geogia, serif;
+    border-bottom: 3px solid #cc9900;
+    color: #996600;
+    font-size: 30px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#about {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: black;
+    font-size: 17px;
+}
+
+#about p {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: black;
+    font-size: 17px;
+}
+
+#about a {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    text-decoration: underline;
+    color: #33334C;
+    border-radius: 4px 4px 0 0;
+}
+
+#about a:hover {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    color: deepskyblue;
+}
+
+
+#main {
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 0 0 5px 5px;
+}
+
+ul#about {
+    padding: 0;
+    margin-bottom: 11px;
+    font-size: 150%;
+    text-align: center;
+}
+
+ul#about li1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+ul#about li2 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    margin-left: 300px;
+}
+
+ul#menu {
+    padding: 0;
+    margin-bottom: 11px;
+    text-align: right;
+}
+
+ul#menu li1 {
+    display: inline;
+    font-size: 150%;
+    font-weight: bold;
+    float:left;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul#menu li1 a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 4px 4px 0 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul#menu li1 a:hover {
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul#menu li2 {
+    display: inline;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-right: 3px;
+}
+
+ul#menu li2 a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li2 a:hover {
+    color: deepskyblue;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#left, #right {
+    width: 45%;
+    margin:5px;
+    padding: 1em;
+}
+
+#left  { float:left;  }
+#right { float:right; }
+
+#proj {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: black;
+    font-size: 17px;
+}
+
+#proj p {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: black;
+    font-size: 17px;
+}
+
+#proj p1 {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: black;
+    font-size: 13px;
+}
+
+#proj a {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    text-decoration: underline;
+    color: #33334C;
+    border-radius: 4px 4px 0 0;
+}
+
+#proj a:hover {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    color: deepskyblue;
+}
+
+
+#header {
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#header h1 {
+    font-size: 40px;
+}
+
+#nav {
+    width:500px;
+    float:left;
+    padding:10px;
+}
+#nav p1 {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: black;
+    font-size: 17px;
+}
+
+#nav p1 a {
+    text-decoration: none;
+    color:#33334C;
+}
+
+#nav p1 a:hover {
+    color: deepskyblue;
+}
+
+#section {
+    width:400px;
+    float:right;
+    padding:10px;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+
+
+
+
+
+
+
+
+
