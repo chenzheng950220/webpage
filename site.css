@@ -1,5 +1,83 @@
 
 
+#nav {
+    width:500px;
+    float:left;
+    padding:10px;
+}
+#nav p1 {
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: black;
+    font-size: 17px;
+}
+
+#nav p1 a {
+    text-decoration: none;
+    color:#33334C;
+}
+
+#nav p1 a:hover {
+    color: deepskyblue;
+}
+
+ul#menu {
+    padding: 0;
+    margin-bottom: 11px;
+    text-align: right;
+}
+
+ul#menu li1 {
+    display: inline;
+    font-size: 150%;
+    font-weight: bold;
+    float:left;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul#menu li1 a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 4px 4px 0 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul#menu li1 a:hover {
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul#menu li2 {
+    display: inline;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-right: 3px;
+}
+
+ul#menu li2 a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li2 a:hover {
+    color: deepskyblue;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#left, #right {
+    width: 45%;
+    margin:5px;
+    padding: 1em;
+}
+
+#left  { float:left;  }
+#right { float:right; }
+
 h1 {
     font-family: Geogia, serif;
     border-bottom: 3px solid #cc9900;
@@ -62,61 +140,7 @@ ul#about li2 {
     margin-left: 300px;
 }
 
-ul#menu {
-    padding: 0;
-    margin-bottom: 11px;
-    text-align: right;
-}
 
-ul#menu li1 {
-    display: inline;
-    font-size: 150%;
-    font-weight: bold;
-    float:left;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
-ul#menu li1 a {
-    padding: 10px 20px;
-    text-decoration: none;
-    color: #696969;
-    border-radius: 4px 4px 0 0;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
-ul#menu li1 a:hover {
-    font-weight: bold;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
-ul#menu li2 {
-    display: inline;
-    font-weight: bold;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    margin-right: 3px;
-}
-
-ul#menu li2 a {
-    padding: 10px 20px;
-    text-decoration: none;
-    color: #696969;
-    border-radius: 4px 4px 0 0;
-}
-
-ul#menu li2 a:hover {
-    color: deepskyblue;
-    font-weight: bold;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
-#left, #right {
-    width: 45%;
-    margin:5px;
-    padding: 1em;
-}
-
-#left  { float:left;  }
-#right { float:right; }
 
 #proj {
     padding: 5px;
@@ -166,27 +190,7 @@ ul#menu li2 a:hover {
     font-size: 40px;
 }
 
-#nav {
-    width:500px;
-    float:left;
-    padding:10px;
-}
-#nav p1 {
-    padding: 5px;
-    border-radius: 0 0 5px 5px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    color: black;
-    font-size: 17px;
-}
 
-#nav p1 a {
-    text-decoration: none;
-    color:#33334C;
-}
-
-#nav p1 a:hover {
-    color: deepskyblue;
-}
 
 #section {
     width:400px;
