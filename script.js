@@ -18,6 +18,7 @@ document.getElementById("nav01").innerHTML =
 "<li1><a href='index.html'>Zheng Chen</a></li1>" +
 "<li2><a href='index.html'>Home</a></li2>" +
 "<li2><a href='projects.html'>Projects</a></li2>" +
+"<li2><a href='resume.pdf'>CV</a></li2>" +
 "<li2><a href='about.html'>About Me</a></li2>" +
 "<li2><a href='contact.html'>Contact</a></li2>" +
 "</ul>";
