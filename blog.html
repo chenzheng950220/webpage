@@ -59,12 +59,34 @@
 
 
   </head>
+  <body><br><br>
+
+
+
+  </head>
   <body>
-    <br><br>
-    <br><br><br><br>
-  <div>
-    Sorry, this site has been migrated. Please <a href="https://zhengchenblog.wordpress.com">click here</a>.
-  </div>
+  <h2>Sorry, this site has been migrated. You will be redirected in <span id="count"></span> seconds.</h2>
+  Please <a href="https://zhengchenblog.wordpress.com">click here</a> if the redirection fails.
+  
+  </body>
+
+<script type="text/javascript">
+window.onload=function() {
+function countdown() {
+if ( typeof countdown.counter == 'undefined' ) {
+    countdown.counter = 5; // initial count
+    }
+if(countdown.counter > 0) {
+  document.getElementById('count').innerHTML = countdown.counter--;
+    setTimeout(countdown, 1000);
+    }
+else {
+    location.href = 'https://zhengchenblog.wordpress.com';
+    }
+}
+countdown();
+};
+</script>
 
 </html>
 
